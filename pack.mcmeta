@@ -1,0 +1,12 @@
+{
+	"pack":{
+		"pack_format": 64,
+		"description": "Changes languages/Lazuri Nena"
+	},
+	"language": {
+		"lz_tr": {
+			"name": "Lazuri",
+			"region": "Turkona"
+		}
+	}
+}
