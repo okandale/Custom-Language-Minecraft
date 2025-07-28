@@ -7,6 +7,10 @@
 		"lz_tr": {
 			"name": "Lazuri",
 			"region": "Turkona"
+		},
+		"wo_wk": {
+			"name": "Wolastoq",
+			"region": "Wolastokuk"
 		}
 	}
 }
