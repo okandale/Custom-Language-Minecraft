@@ -1,0 +1,33 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/116_laz.png",
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE000"],
+      "width": 10
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/57346_laz.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE001"]
+
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/57347_laz.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE002"]
+    },
+
+    {
+      "type": "reference",
+      "id": "minecraft:include/default"
+    }
+  ]
+}
+
