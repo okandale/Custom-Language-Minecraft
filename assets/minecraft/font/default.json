@@ -11,17 +11,19 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/57346_laz.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uE001"]
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE001"],
+      "width": 10
 
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/57347_laz.png",
-      "ascent": 8,
-      "height": 8,
-      "chars": ["\uE002"]
+      "ascent": 10,
+      "height": 12,
+      "chars": ["\uE002"],
+      "width": 10
     },
 
     {
