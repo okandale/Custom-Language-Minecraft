@@ -1,16 +1,19 @@
 {
-	"pack":{
-		"pack_format": 64,
-		"description": "Changes languages/Lazuri Nena"
-	},
-	"language": {
-		"lz_tr": {
-			"name": "Lazuri",
-			"region": "Turkona"
-		},
-		"wo_wk": {
-			"name": "Wolastoq",
-			"region": "Wolastokuk"
-		}
-	}
+  "pack": {
+    "min_format": [75, 0],
+    "max_format": [75, 0],
+    "description": "Changes languages/Lazuri Nena"
+  },
+  "language": {
+    "lz_tr": {
+      "name": "Lazuri",
+      "region": "Turkona",
+      "bidirectional": false
+    },
+    "wo_wk": {
+      "name": "Wolastoq",
+      "region": "Wolastokuk",
+      "bidirectional": false
+    }
+  }
 }

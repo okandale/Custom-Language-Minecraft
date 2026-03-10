@@ -1,35 +1,30 @@
 {
   "providers": [
     {
+      "type": "reference",
+      "id": "minecraft:include/default"
+    },
+
+    {
       "type": "bitmap",
       "file": "minecraft:font/116_laz.png",
       "ascent": 10,
       "height": 12,
-      "chars": ["\uE000"],
-      "width": 10
+      "chars": ["\uE100"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/57346_laz.png",
       "ascent": 10,
       "height": 12,
-      "chars": ["\uE001"],
-      "width": 10
-
+      "chars": ["\uE101"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/57347_laz.png",
       "ascent": 10,
       "height": 12,
-      "chars": ["\uE002"],
-      "width": 10
-    },
-
-    {
-      "type": "reference",
-      "id": "minecraft:include/default"
+      "chars": ["\uE102"]
     }
   ]
 }
-
